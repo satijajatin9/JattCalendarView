@@ -12,7 +12,7 @@ allprojects {
 	}
 	***
   
-  Step 2. Add the dependency
+  >Step 2. Add the dependency
   
   ***gradle
 dependencies {
