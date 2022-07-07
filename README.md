@@ -17,6 +17,6 @@ allprojects {
   
 ```gradle
 dependencies {
-	        implementation 'com.github.satijajatin9:JattCalendarView:1.0.0'
+	        implementation 'com.github.satijajatin9:JattCalendarView:1.0.1'
 	}
 ```
